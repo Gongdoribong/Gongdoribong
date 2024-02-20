@@ -3,10 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFAFBD,100:ffc3a0&height=175&section=header&text=♥&desc=Welcome%20to%20my%20GitHub&fontSize=30&fontAlignY=30&fontColor=ffffff)<br>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGongdoribong&count_bg=%23FF6060&title_bg=%23FFA9A9&icon=&icon_color=%23000000&title=%E2%9D%A4&edge_flat=false)
 
-<br><br><br>
-
-
+<br>
 <h3>👋🏻 안녕하세요! 👋🏻</h3>
+
 <p>
 <b>My major is Computer Engineering, and my integrated major is Biohealth Medical Devices.</b> <br>
 <b>I'm currently learning Computer Vision.</b><br><br>
